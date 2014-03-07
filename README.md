@@ -1,2 +1,1 @@
-# tem
-### a Sails application
+### Sails应用项目模版

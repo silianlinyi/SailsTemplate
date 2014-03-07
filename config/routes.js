@@ -28,15 +28,15 @@
 
 module.exports.routes = {
 
-  // By default, your root route (aka home page) points to a view
-  // located at `views/home/index.ejs`
-  // 
-  // (This would also work if you had a file at: `/views/home.ejs`)
-  '/': {
-    view: 'home/index'
-  }
+    // By default, your root route (aka home page) points to a view
+    // located at `views/home/index.ejs`
+    // 
+    // (This would also work if you had a file at: `/views/home.ejs`)
+    '/': {
+        view: 'index'
+    }
 
-  /*
+    /*
   // But what if you want your home page to display
   // a signup form located at `views/user/signup.ejs`?
   '/': {
@@ -163,4 +163,3 @@ module.exports.routes = {
  * Finally, if nothing else matched, the default 404 handler is triggered.
  * See `config/404.js` to adjust your app's 404 logic.
  */
- 
