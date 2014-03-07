@@ -1,4 +1,2 @@
-SailsTemplate
-=============
-
-Sails项目模版
+# tem
+### a Sails application
